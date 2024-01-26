@@ -17,7 +17,7 @@ After installation, follow these steps to use the system effectively:
 
 1. Ensure to include the file `/etc/conf.php` in all files where the system will be used.
 2. To restrict access to a page only to logged-in users, add the variable `$access_level` with the required access level for the page. (If the variable is not defined, it defaults to 0).
-3. For more detailed instructions on how to use the system, refer to the documentation available in `/docs/`.
+3. For more detailed instructions on how to use the system, refer to the documentation available in the [Wiki](https://github.com/ViniciusBelini/Levels-Authentication-System/wiki).
 
 ## Contribution
 
