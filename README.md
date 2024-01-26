@@ -10,6 +10,7 @@ To install the system:
 
 1. Download or clone this repository into a separate folder.
 2. Configure the file `/etc/conf.php` based on your preferences.
+3. Import the file `/etc/database.sql` into your SQL database.
 
 ## How to Use the System
 
