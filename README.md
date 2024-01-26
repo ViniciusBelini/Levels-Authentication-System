@@ -1,6 +1,6 @@
 # Levels Authentication System
 
-**Security-Level Authentication System in PHP.**
+**Security-Level Authentication System in PHP with SQL Database Integration.**
 
 This is an authentication system with security-level based access control, developed in PHP. It allows for information release based on the user's authentication level, enhancing security without increasing the number of logins required for the user. This system is highly configurable and can be implemented simply by editing the configuration file, `/etc/conf.php`.
 
